@@ -1,0 +1,9 @@
+{
+  "name": "gdrive-tool",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^173.0.0"
+  }
+}

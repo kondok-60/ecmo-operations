@@ -1,0 +1,5 @@
+gdrive_tool/node_modules/
+gdrive_tool/find_folder.mjs
+gdrive_auth.js
+*.log
+.env
