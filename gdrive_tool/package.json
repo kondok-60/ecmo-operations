@@ -5,5 +5,8 @@
   "private": true,
   "dependencies": {
     "googleapis": "^173.0.0"
+  },
+  "devDependencies": {
+    "tweetsodium": "^0.0.4"
   }
 }
