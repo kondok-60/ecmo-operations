@@ -1,5 +1,9 @@
 gdrive_tool/node_modules/
 gdrive_tool/find_folder.mjs
+gdrive_tool/list_drives.mjs
 gdrive_auth.js
+gdrive_upload.js
+operations/tmp_slack_payload.json
 *.log
 .env
+.claude/settings.local.json
